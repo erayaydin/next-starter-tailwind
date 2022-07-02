@@ -12,9 +12,14 @@
   <a href="https://github.com/erayaydin/next-starter-tailwind/actions/workflows/main.yaml">
     <img src="https://github.com/erayaydin/next-starter-tailwind/actions/workflows/main.yaml/badge.svg" alt="CI/CD">
   </a>
+  <a href="https://app.netlify.com/sites/next-starter-tailwind/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/18e5c1a5-d5d8-4916-aae9-8fa7575ffca4/deploy-status" alt="Netlify" />
+  </a>
 </p>
 
 ## Features
+
+Check [Netlify](https://next-starter-tailwind.netlify.app/) demo
 
 - Putting DX first!
 - Typescript
