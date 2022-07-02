@@ -6,6 +6,12 @@
   <a href="https://github.com/erayaydin/next-starter-tailwind/blob/main/LICENSE">
     <img src="https://img.shields.io/apm/l/atomic-design-ui.svg?style=flat" alt="License">
   </a>
+  <a href="https://codecov.io/gh/erayaydin/next-starter-tailwind">
+    <img src="https://codecov.io/gh/erayaydin/next-starter-tailwind/branch/main/graph/badge.svg?token=G44BIVOVBA" alt='codecov'/>
+  </a>
+  <a href="https://github.com/erayaydin/next-starter-tailwind/actions/workflows/main.yaml">
+    <img src="https://github.com/erayaydin/next-starter-tailwind/actions/workflows/main.yaml/badge.svg" alt="CI/CD">
+  </a>
 </p>
 
 ## Features
