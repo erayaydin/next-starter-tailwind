@@ -1,6 +1,6 @@
 export const AppConfig = {
-  title: 'Starter Project Template',
+  title: 'Next Starter',
   description:
-    'Putting DX first! Made with Next.js, Typescript, Tailwind CSS, ESLint, Prettier and more ...',
+    'Putting DX first! Made with Next.js, Typescript, NextUI, ESLint, Prettier and more ...',
   locale: 'en',
 };
